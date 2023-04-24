@@ -2,7 +2,7 @@
   :sparkles: Welcome to my profile :sparkles:
 </h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UrtAblan28WXR84ifg/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/UrtAblan28WXR84ifg/giphy.gif" width="110"/>
 </div>
 
 ---
